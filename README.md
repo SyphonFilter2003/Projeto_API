@@ -1,4 +1,6 @@
-🌟 Projeto: Desenvolvimento de Software Visual 🌟
+>>🌟 Projeto: Desenvolvimento de Software Visual 🌟<<
+
+
 👨‍🎓 Alunos:
 João Antônio de Souza Vieira Sandes
 Responsabilidades:
