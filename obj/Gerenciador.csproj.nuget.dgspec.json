@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Joao\\Downloads\\Projeto_API-master\\Gerenciador\\Gerenciador.csproj": {}
+    "D:\\Joao\\Downloads\\Projeto_API\\Gerenciador\\Gerenciador.csproj": {}
   },
   "projects": {
-    "D:\\Joao\\Downloads\\Projeto_API-master\\Gerenciador\\Gerenciador.csproj": {
+    "D:\\Joao\\Downloads\\Projeto_API\\Gerenciador\\Gerenciador.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Joao\\Downloads\\Projeto_API-master\\Gerenciador\\Gerenciador.csproj",
+        "projectUniqueName": "D:\\Joao\\Downloads\\Projeto_API\\Gerenciador\\Gerenciador.csproj",
         "projectName": "Gerenciador",
-        "projectPath": "D:\\Joao\\Downloads\\Projeto_API-master\\Gerenciador\\Gerenciador.csproj",
+        "projectPath": "D:\\Joao\\Downloads\\Projeto_API\\Gerenciador\\Gerenciador.csproj",
         "packagesPath": "C:\\Users\\joaoa\\.nuget\\packages\\",
-        "outputPath": "D:\\Joao\\Downloads\\Projeto_API-master\\Gerenciador\\obj\\",
+        "outputPath": "D:\\Joao\\Downloads\\Projeto_API\\Gerenciador\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\joaoa\\AppData\\Roaming\\NuGet\\NuGet.Config"
